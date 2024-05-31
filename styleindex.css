@@ -1,0 +1,232 @@
+.background {
+    background-color: #E6F9FD;
+}
+
+.container-flex {
+    display: flex;
+}
+
+.left {
+    width: 20%;
+    height: 1215px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.right{
+    width: 80%;
+    height: 1157px;
+}
+
+.logo {
+    display: flex;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+hr {
+    margin: 30px 0;
+}
+
+
+.Dashboard-left {
+    background-color: #C3F4FD;
+    display: flex;
+    justify-content: space-around;
+}
+
+.dashboard {
+    display: flex;
+    width: 100%;
+    height: 757px;
+    flex-direction: column;
+}
+
+.dashboard h4 {
+    margin: 0;
+}
+
+.dashboard1 {
+    display: flex;
+    flex-direction: column;
+    Padding: 10px;
+    height: 56px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    background-color: #C3F4FD;
+
+}
+
+.dashboard2 {
+    display: flex;
+    height: 85px;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.ADMIN-USERS {
+    display: flex;
+    justify-content: center;
+
+}
+
+.admin-info {
+    display: flex;
+    margin: 10%;
+}
+
+.dashboard3 {
+    display: flex;
+    justify-content: space-between height: 757px;
+    flex-direction: column;
+}
+
+.dashboard3 .admin-info {
+    display: flex;
+    margin: 10%;
+
+}
+
+.admin-info .admin-info-right {
+    width: 100%;
+    margin-left: 10%;
+}
+
+.admin-info .next {
+    display: flex;
+    margin: 0: justify-content: flex-end;
+}
+
+.content-right {
+    width: 80%;
+    height: 1225px;
+    margin-top: 30px;
+    margin-left: 5%;
+    border-radius: 24px;
+    background-color: #C3F4FD;
+}
+
+.content-right-first {
+    display: flex;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+.content-right-first .info {
+    margin-left: 5%;
+}
+
+.content-right-first-right .info {
+    margin-right: 10%;
+}
+
+.dashboard-right {
+    display: flex;
+}
+
+.content-right-first h4 {
+    margin: 0;
+}
+
+.content-right-first-left {
+    display: flex;
+    width: 80%;
+    align-items: center;
+}
+
+.content-right-first-right {
+    display: flex;
+    width: 20%;
+    justify-content: flex-end;
+    margin-right: 5%;
+    align-items: center;
+}
+
+.content-right-second {
+    background-color: #FFFFFF;
+    height: 1130px;
+    Padding: 24px, 50px, 50px, 50px
+}
+
+.Onfleet {
+    color: #01428E;
+    margin-left: 5%;
+    
+}
+
+.Driver-Today {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5%;
+}
+
+.Driver, .Today{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 170px;
+    height: 50px;
+    border-radius: 16px;
+    background-color: #f1efef;
+    margin-left: 2%;
+}
+
+#map {
+    height: 600px;
+    width: 940px;
+    border-radius: 16px;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.gg map{
+    width: 940px;
+    height: 661px;
+}
+
+.Status h4{
+    margin-left: 5%;
+}
+
+.Status-function {
+    width:  940px;
+    height: 82px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 6%;
+    background-color: #f2f3f3;
+    border-radius: 24px;
+    
+}
+
+.Drivers-function {
+    display: flex;
+    width: 445px;
+    height: 48px;
+    
+}
+
+.Tasks-function{
+    display: flex;
+    width: 462px;
+    height: 50px;
+
+}
+
+.function{
+    display: flex;
+    margin-left: 5%;
+    
+}
+
+.function h5{
+    margin: 0;
+}
